@@ -1,0 +1,32 @@
+[
+    {
+      "No": 1,
+      "Iteration": 1,
+      "action": "query",
+      "format": "json",
+      "list": "search",
+      "formatversion": 2,
+      "srsearch": "Software Testing",
+      "sroffset": 0
+    },
+    {
+      "No": 2,
+      "Iteration": 2,
+      "action": "query",
+      "format": "json",
+      "list": "search",
+      "formatversion": 2,
+      "srsearch": "Software abc",
+      "sroffset": 0
+    },
+    {
+      "No": 3,
+      "Iteration": 3,
+      "action": "query",
+      "format": "json",
+      "list": "search",
+      "formatversion": 2,
+      "srsearch": "1@~ / Testing",
+      "sroffset": 0
+    }
+  ]

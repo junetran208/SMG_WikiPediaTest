@@ -1,0 +1,43 @@
+[
+  {
+    "No": 1,
+    "Iteration": 1,
+    "action": "query",
+    "format": "json",
+    "list": "search",
+    "formatversion": 2,
+    "srsearch": "Software Testing",
+    "sroffset": 1
+  },
+  {
+    "No": 2,
+    "Iteration": 2,
+    "action": "query",
+    "format": "json",
+    "list": "search",
+    "formatversion": 2,
+    "srsearch": "Software Testing",
+    "sroffset": 110
+  },
+  {
+    "No": 3,
+    "Iteration": 3,
+    "action": "query",
+    "format": "json",
+    "list": "search",
+    "formatversion": 2,
+    "srsearch": "Software Testing",
+    "sroffset": 250
+  },
+  {
+    "No": 4,
+    "Iteration": 4,
+    "action": "query",
+    "format": "json",
+    "list": "search",
+    "continue": "",
+    "formatversion": 2,
+    "srsearch": "Software Testing",
+    "sroffset": 10
+  }
+]

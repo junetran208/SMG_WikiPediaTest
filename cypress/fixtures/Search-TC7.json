@@ -1,0 +1,31 @@
+[
+    {
+      "action": "query",
+      "format": "json",
+      "list": "search",
+      "continue": "-10",
+      "formatversion": 2,
+      "srsearch": "Software Testing",
+      "sroffset": 50
+    },
+    {
+      "action": "query",
+      "format": "json",
+      "list": "search",
+      "continue": "abx",
+      "formatversion": 2,
+      "srsearch": "Software abc",
+      "sroffset": 0
+    },
+   
+    {
+      "action": "query",
+      "format": "json",
+      "list": "search",
+      "continue": "9999999999999999999",
+      "formatversion": 2,
+      "srsearch": "Select * from Testing ",
+      "sroffset": 0
+    }
+  ]
+  

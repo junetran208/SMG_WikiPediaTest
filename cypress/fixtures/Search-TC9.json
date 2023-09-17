@@ -1,0 +1,55 @@
+[
+    {
+      "action": "query",
+      "format": "json",
+      "list": "search",
+      "formatversion": 2,
+      "srsearch": "Software Testing",
+      "sroffset": "abc"
+    },
+    {
+      "action": "query",
+      "format": "json",
+      "list": "search",
+      "continue": "",
+      "formatversion": 2,
+      "srsearch": "Software abc",
+      "sroffset": "% ~*&@':/. <hr>"
+    },
+    {
+      "action": "query",
+      "format": "json",
+      "list": "search",
+      "formatversion": 2,
+      "srsearch": "Testing",
+      "sroffset": "1.23"
+    },
+    {
+      "action": "query",
+      "format": "json",
+      "list": "search",
+      "continue": "",
+      "formatversion": 2,
+      "srsearch": "Select * from Testing ",
+      "sroffset": "-123abc"
+    },
+    {
+        "action": "query",
+        "format": "json",
+        "list": "search",
+        "continue": "",
+        "formatversion": 2,
+        "srsearch": "Select * from Testing ",
+        "sroffset": "99999999999999999999999"
+      },
+      {
+        "action": "query",
+        "format": "json",
+        "list": "search",
+        "continue": "",
+        "formatversion": 2,
+        "srsearch": "Select * from Testing ",
+        "sroffset": "-0.1"
+      }
+  ]
+  

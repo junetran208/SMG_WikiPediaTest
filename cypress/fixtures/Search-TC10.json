@@ -1,0 +1,21 @@
+[
+    {
+      "action": "query",
+      "format": "json",
+      "list": "abc",
+      "formatversion": 5,
+      "srsearch": "Software Testing",
+      "sroffset": "abc"
+    },
+    {
+      "action": "query",
+      "format": "json",
+      "list": "search1",
+      "continue": "",
+      "formatversion": "-2",
+      "srsearch": "Software abc",
+      "sroffset": "9999"
+    }
+   
+  ]
+  

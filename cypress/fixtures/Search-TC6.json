@@ -1,0 +1,62 @@
+[
+    {
+        "action": "query",
+        "format": "json",
+        "list": "search",
+        "continue": "",
+        "formatversion": "",
+        "srsearch": "Software abc",
+        "sroffset": 10
+      },
+      {
+        "action": "query",
+        "format": "json",
+        "list": "'search",
+        "formatversion": 0,
+        "srsearch": "Testing",
+        "sroffset": 20
+      },
+      {
+          "action": "query",
+          "format": "json",
+          "list": "search",
+          "formatversion": 3,
+          "srsearch": "Testing",
+          "sroffset": 100
+        },
+        {
+          "action": "query",
+          "format": "json",
+          "list": "search",
+          "formatversion": -2,
+          "srsearch": "Software Testing",
+          "sroffset": 10
+        },
+    
+     {
+            "action": "query",
+            "format": "json",
+            "list": "search",
+            "formatversion": "abc123",
+            "srsearch": "Testing",
+            "sroffset": 20
+          },
+          {
+              "action": "query",
+              "format": "json",
+              "list": "search",
+              "formatversion": "select*",
+              "srsearch": "Testing",
+              "sroffset": 20
+            },
+          {
+            "action": "query",
+            "format": "json",
+            "list": "search",
+            "formatversion": "6",
+            "srsearch": "Testing",
+            "sroffset": 20
+          }
+  
+  ]
+  

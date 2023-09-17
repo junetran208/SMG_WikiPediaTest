@@ -1,0 +1,21 @@
+[
+    
+    {
+      "action": "query",
+      "format": "json",
+      "list": "search",
+      "formatversion": 2,
+      "srsearch": "Software testing is the act of examining the artifacts and the behavior of the software under test by validation and verification. Software testing can also provide an objective, independent view of the software to allow the business to appreciate and understand the risks of software implementation. Test techniques include, but are not necessarily",
+      "sroffset": 0
+    },
+    {
+      "action": "query",
+      "format": "json",
+      "list": "search",
+      "continue": "",
+      "formatversion": 2,
+      "srsearch": "Software testing is the act of examining the artifacts and the behavior of the software under test by validation and verification. Software testing can also provide an objective, independent view of the software to allow the business to appreciate and understand the risks of software implementation12 ",
+      "sroffset": 20
+    }
+  ]
+  

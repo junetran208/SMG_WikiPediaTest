@@ -1,0 +1,47 @@
+[
+    {
+      "action": "query",
+      "format": "json",
+      "list": "123",
+      "continue": "",
+      "formatversion": 2,
+      "srsearch": "Software abc",
+      "sroffset": 10
+    },
+    {
+      "action": "query",
+      "format": "json",
+      "list": "'abc&&%",
+      "formatversion": 2,
+      "srsearch": "Testing",
+      "sroffset": 20
+    },
+    {
+        "action": "query",
+        "format": "json",
+        "list": "</hr>",
+        "formatversion": 2,
+        "srsearch": "Testing",
+        "sroffset": 100
+      },
+      {
+        "action": "query",
+        "format": "json",
+        "list": "",
+        "formatversion": 2,
+        "srsearch": "Software Testing",
+        "sroffset": 10
+      },
+  
+   {
+          "action": "query",
+          "format": "json",
+          "list": "    ",
+          "formatversion": 2,
+          "srsearch": "Testing",
+          "sroffset": 20
+        }
+     
+  
+  ]
+  

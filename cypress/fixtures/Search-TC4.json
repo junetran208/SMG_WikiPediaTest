@@ -1,0 +1,29 @@
+[
+    {
+      "action": "query",
+      "format": "json",
+      "list": "search",
+      "formatversion": 2,
+      "srsearch": "Software Testing",
+      "sroffset": -10
+    },
+    {
+      "action": "query",
+      "format": "json",
+      "list": "search",
+      "continue": "",
+      "formatversion": 2,
+      "srsearch": "Software abc",
+      "sroffset": -123
+    },
+    {
+      "action": "query",
+      "format": "json",
+      "list": "search",
+      "formatversion": 2,
+      "srsearch": "Testing",
+      "sroffset": -999
+    }
+  
+  ]
+  
