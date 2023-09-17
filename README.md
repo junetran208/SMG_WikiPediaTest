@@ -22,14 +22,14 @@
 #### c. Open Cypress UI and select specs to run
 ```npx cypress open```
 
-#### Note: you also able to refer the test result through the shared video from Google drive https://drive.google.com/file/d/1SCOm5Jwe3gbJcJhPbG8MRDYlAOrBohkQ/view?usp=drive_link
+#### Note: you also able to refer the test result through the shared video from Google drive https://drive.google.com/file/d/1KgLIULA8WzxXqnPXpLRAFPooQP8OKm8n/view 
 
 
 ### 4.Test Report
 #### a. install cypress-mochawesome-reporter
 ```npm install cypress-mochawesome-reporter --no-save```
 #### b. View html report
-##### afer executing the test, open html file from your local under ..\cypress\reports
+##### Afer executing the test, open html file from your local under ..\cypress\reports
 
 
 
